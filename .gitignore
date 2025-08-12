@@ -15,7 +15,8 @@ Thumbs.db
 *.swo
 *~
 
-# Serena
+# MCP and AI tools
+.mcp.json
 .serena/
 
 # Logs
