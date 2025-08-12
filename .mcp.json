@@ -26,6 +26,10 @@
         "git+https://github.com/oraios/serena",
         "serena-mcp-server"
       ]
+    },
+    "repomix": {
+      "command": "npx",
+      "args": ["-y", "repomix-mcp"]
     }
   }
 }
